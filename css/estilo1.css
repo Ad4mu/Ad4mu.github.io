@@ -1,0 +1,78 @@
+body{
+	margin: auto;
+}
+
+#encabezado {   /*revert y fantasy perfe*/
+	background-image: url("https://as2.ftcdn.net/v2/jpg/00/39/74/53/1000_F_39745373_LLhtX8ObaR8gTlXwiP55v4oLa5QjMzuX.jpg");
+	text-align: center;
+	padding: 40px;
+	font-family: revert;
+	color: #FFF;
+	font-size: 30px;
+}
+
+#Ajideatun {
+	font-size: 25px;
+	color: #FFFFFF;
+	font-family: fantasy;
+	padding: 50px;
+	text-align: center;
+    background-image: url("https://cdn.discordapp.com/attachments/771853368846057543/1245875970867462164/a.png?ex=665a57ea&is=6659066a&hm=3d1677f5ccd98aeba3eac38d6a4aa814c78ca3018fc21b588a5a775937a21721&");
+}
+
+#foto1{
+	padding: 30px;
+	text-align: center;
+    background-image: url("https://cdn.discordapp.com/attachments/771853368846057543/1245875970867462164/a.png?ex=665a57ea&is=6659066a&hm=3d1677f5ccd98aeba3eac38d6a4aa814c78ca3018fc21b588a5a775937a21721&");
+}
+#Arroz{
+	font-size: 25px;
+	color: #FFFFFF;
+	font-family: fantasy;
+	padding: 50px;
+	text-align: center;
+    background-image: url("https://cdn.discordapp.com/attachments/771853368846057543/1245875970867462164/a.png?ex=665a57ea&is=6659066a&hm=3d1677f5ccd98aeba3eac38d6a4aa814c78ca3018fc21b588a5a775937a21721&");
+}
+#foto2{
+	padding: 50px;
+	text-align: center;
+    background-image: url("https://cdn.discordapp.com/attachments/771853368846057543/1245875970867462164/a.png?ex=665a57ea&is=6659066a&hm=3d1677f5ccd98aeba3eac38d6a4aa814c78ca3018fc21b588a5a775937a21721&");
+}
+
+#Papa{
+	font-size: 25px;
+	color: #FFFFFF;
+	font-family: fantasy;
+	padding: 50px;
+	text-align: center;
+    background-image: url("https://cdn.discordapp.com/attachments/771853368846057543/1245875970867462164/a.png?ex=665a57ea&is=6659066a&hm=3d1677f5ccd98aeba3eac38d6a4aa814c78ca3018fc21b588a5a775937a21721&");
+}
+
+#foto3{
+	padding: 50px;
+	text-align: center;
+    background-image: url("https://cdn.discordapp.com/attachments/771853368846057543/1245875970867462164/a.png?ex=665a57ea&is=6659066a&hm=3d1677f5ccd98aeba3eac38d6a4aa814c78ca3018fc21b588a5a775937a21721&");
+}
+
+#final{
+	background-image: url("https://as2.ftcdn.net/v2/jpg/00/39/74/53/1000_F_39745373_LLhtX8ObaR8gTlXwiP55v4oLa5QjMzuX.jpg");
+	text-align: left;
+	padding: 60px;
+	font-size: 25px;
+    color: #FFF;
+}
+
+#final img{
+    width: 75px;
+}
+
+#saben{
+	background-image: url(https://as2.ftcdn.net/v2/jpg/00/39/74/53/1000_F_39745373_LLhtX8ObaR8gTlXwiP55v4oLa5QjMzuX.jpg);
+}
+#saben img{
+	text-align: right;
+	width: 15px;
+
+}
+
+img{width: 500px;}

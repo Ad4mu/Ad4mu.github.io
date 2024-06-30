@@ -1,0 +1,90 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+#arriba {
+    background-color: #8d6e63;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
+
+#arriba img {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+}
+
+#arriba h1 {
+    display: inline;
+    margin-left: 10px;
+    vertical-align: middle;
+    font-weight: 600;
+}
+
+#contenido {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+#ingredientes {
+	font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+    padding: 20px;
+    width: 300px;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+    height:40%;
+}
+
+#ingredientes h2 {
+    background-color: #ffab91;
+    padding: 10px;
+    margin: -20px -20px 20px -20px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+#ingredientes ul {
+    list-style-type: none;
+    padding: 0;
+    font-weight: 300;
+}
+
+#ingredientes ul li {
+    margin-bottom: 10px;
+}
+
+#preparacion {
+    padding: 20px;
+    flex: 1;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+}
+
+#preparacion h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+#pasos {
+    margin-bottom: 20px;
+}
+
+#preparacion h3 {
+    color: #8d6e63;
+    margin-top: 20px;
+    font-weight: 600;
+}
